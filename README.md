@@ -6,4 +6,5 @@ Two PDF files and an audio URL file are included in each *The Economist* issue d
 Pull requests and issues are welcomed.
 
 ## BUY ME A COFFEE
-!(b)[https://ml.yscale.cf/paycode.png]
+
+![Paycode](https://ml.yscale.cf/paycode.png)
