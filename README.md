@@ -4,3 +4,6 @@ The project uses spider scripts to gather data from https://www.economist.com, t
 Two PDF files and an audio URL file are included in each *The Economist* issue directory.
 
 Pull requests and issues are welcomed.
+
+## BUY ME A COFFEE
+!(b)[https://ml.yscale.cf/paycode.png]
