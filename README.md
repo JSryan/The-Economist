@@ -7,4 +7,4 @@ Pull requests and issues are welcomed.
 
 ## BUY ME A COFFEE
 
-![wechat-paycode](https://ml.yscale.cf/paycode.png)
+![wechat-paycode](https://ml.yscale.cf/paycode-small.png)
